@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+data/
+training_scripts/training_chkps
+training_datasets/300
+training_datasets/600
+training_datasets/300_2
+training_datasets/600_2
+output/tests
+output/3
