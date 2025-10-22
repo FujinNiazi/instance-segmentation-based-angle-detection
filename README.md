@@ -77,16 +77,16 @@ On a per category basis the segmentation performance of the ***line*** or heatin
 
 Overall the algorithm performs reasonably well as shown in the following images with the bounding boxes overlayed.
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/c0c1b1d6-15e2-4c36-9023-49e1bdd86997" width="33%" />
-  <img src="https://github.com/user-attachments/assets/cd910a6e-9934-4e33-b933-ce80841cad21" width="33%" />
-  <img src="https://github.com/user-attachments/assets/991a9a20-e524-448b-8086-b7197a7aabb8" width="33%" />
+  <img src="https://github.com/user-attachments/assets/c0c1b1d6-15e2-4c36-9023-49e1bdd86997" width="32%" />
+  <img src="https://github.com/user-attachments/assets/cd910a6e-9934-4e33-b933-ce80841cad21" width="32%" />
+  <img src="https://github.com/user-attachments/assets/991a9a20-e524-448b-8086-b7197a7aabb8" width="32%" />
 </p>
 
 Or in the following with the segmentation masks
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/ce3500af-3c9b-461f-bddb-854c8298f57c" width="33%" />
-  <img src="https://github.com/user-attachments/assets/af98b6b8-749f-4878-861c-c9ec6ec0a3d1" width="33%" />
-  <img src="https://github.com/user-attachments/assets/b79e10cb-a2c3-4e82-9e69-fb9b2f6715be" width="33%" />
+  <img src="https://github.com/user-attachments/assets/ce3500af-3c9b-461f-bddb-854c8298f57c" width="32%" />
+  <img src="https://github.com/user-attachments/assets/af98b6b8-749f-4878-861c-c9ec6ec0a3d1" width="32%" />
+  <img src="https://github.com/user-attachments/assets/b79e10cb-a2c3-4e82-9e69-fb9b2f6715be" width="32%" />
 </p>
 
 Video samples
